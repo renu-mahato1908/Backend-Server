@@ -4,8 +4,7 @@
 
 
 module.exports = {
-  // url: "mongodb+srv://renukamahato_dbuser:_9BDvy!%BFATEk%/@cluster0.",
-  url:"//renukamahato_dbuser:_9BDvy!%25BFATEk%25@cluster0.1gorory.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0."
+  url: "mongodb+srv://renukamahato_dbuser:_9BDvy!%25BFATEk%25@cluster0.1gorory.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 };
 
 
