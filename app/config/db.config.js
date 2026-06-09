@@ -4,7 +4,7 @@
 
 
 module.exports = {
-  url: "mongodb+srv://renukamahato_dbuser:<db_password>@cluster0.1gorory.mongodb.net/sample_mflix",
+  url: "mongodb+srv://renukamahato_dbuser:<db_password>@cluster0.5gorory.mongodb.net/sample_mflix",
 };
 
 
